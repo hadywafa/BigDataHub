@@ -1,0 +1,1 @@
+[text](https://learn.elastic.co/learn/courses/475/elastic-observability-engineer-on-demand/lessons/2113:1355/setting-up-your-lab-environment-eoe)
